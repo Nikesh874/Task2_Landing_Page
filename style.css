@@ -1,0 +1,64 @@
+nav{
+    display: flex;
+justify-content: space-around;
+
+}
+img{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.akash{
+    display: flex;
+    gap: 30px;
+}
+
+.nabin {
+    width: 50% ;
+}
+
+.nikesh {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hello {
+    height: 50px;
+    display: flex ;
+    align-items: center ;
+}
+
+button {
+    padding: 15px 40px;
+}
+
+.image {
+    display: flex;
+    align-items: center ;
+    justify-content: center ;
+    height: 100vh;
+    width: 50vw;
+}
+
+img {
+    height: 40vh;
+}
+
+.come {
+     margin-top: 60px;
+     margin-left: 30px;
+}
+
+.nabin h2 {
+    display: flex;
+    flex-direction: column;
+    font-size: 60px;
+}
+
+.nabin p {
+    font-size: 20px;
+    margin-bottom: 60px;
+}
